@@ -136,9 +136,84 @@ cout<<"La suma total es: "<<MD_s<<endl;
 
 ```
 
+# Instalacion
 
+```
+1.- Descargar F-Droid
 
+https://f-droid.org/
 
+2.- Descargar la Terminal (Termux)
+
+Dentro de la aplicación F-Droid
+
+3.- Instalar paquetes en la Terminal (Termux)
+
+pkg install git
+
+pkg install vim
+
+pkg install g++
+
+pkg install clang
+
+apt update
+
+apt upgrade
+
+4.- Clonar el Repositorio en la Terminal
+
+git clone https://github.com/DanielaMontesdeoca/Actividad-E2.git
+
+5.- Acceder al Repositorio
+
+cd Actividad-E2
+
+6.- Acceder al Directorio
+
+cd Actividad-B2-C2
+
+7.- Escribir Comando > ls
+
+MontesdeocaDaniela-Compara
+MontesdeocaDaniela-Compara.cpp
+MontesdeocaDaniela-Compara.jpg
+MontesdeocaDaniela-CuentaMoneda
+MontesdeocaDaniela-CuentaMoneda.cpp
+MontesdeocaDaniela-CuentaMoneda.jpg
+MontesdeocaDaniela-Laedad
+MontesdeocaDaniela-Laedad.cpp
+MontesdeocaDaniela-Laedad.jpg
+MontesdeocaDaniela-puntoventa
+MontesdeocaDaniela-puntoventa.cpp
+MontesdeocaDaniela-puntoventa.jpg
+MontesdeocaDaniela-SumaN
+MontesdeocaDaniela-SumaN.cpp
+MontesdeocaDaniela-SumaN.jpg
+
+```
+
+# Compilacion de un programa
+
+```
+
+1.- Ingresar al Repositorio
+
+cd Actividad-E2
+
+2.- Ingresar al Directorio
+
+cd Actividad-B2-C2
+
+3.- Compilar Programa
+
+g++ MontesdeocaDaniela-Compara.cpp -o MontesdeocaDaniela-Compara
+
+Ejecución de un Programa
+
+./MontesdeocaDaniela-Compara
+
+```
 
 
 
