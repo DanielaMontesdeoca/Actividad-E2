@@ -102,3 +102,43 @@ cout<<"Ingrese un nunero: ";
 cin>>MD_b;
 
 ```
+
+# Salidas de los programas
+
+```
+
+MontesdeocaDaniela-Compara.cpp:
+
+cout<<"El valor de X: "<<MD_x<<"es menor a Y:"<<MD_y<<endl;
+}else{
+cout<<"El valor de Y: "<<MD_y<<"es menor a X:"<<MD_x<<endl;
+
+MontesdeocaDaniela-CuentaMoneda.cpp:
+
+cout<<"El resultado fue: "<<endl;
+cout<<"Cantidad total en dinero contado: "<<MD_a<<endl;
+cout<<"Cantidad total de monedas de 0.10 ingresadas: "<<MD_c1<<endl;
+cout<<"Cantidad total de dinero de monedas de 0.10: "<<MD_a1<<endl;
+cout<<"Cantidad de monedas de 0.25 ingresadas: "<<MD_c2<<endl;
+cout<<"Cantidad total de dinero de monedas de 0.25: "<<MD_c2<<endl;
+
+MontesdeocaDaniela-Laedad.cpp:
+
+cout<<"La persona tiene "<<MD_a<<" años "<<MD_m<<" meses y "<<MD_d<<" dias ";
+
+MontesdeocaDaniela-PuntoVenta.cpp:
+
+cout<<"El valor total de su compra a pagar es: $ "<<MD_Vf<<endl;
+
+MontesdeocaDaniela-SumaN.cpp:
+
+cout<<"La suma total es: "<<MD_s<<endl;
+
+```
+
+
+
+
+
+
+
