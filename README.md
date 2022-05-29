@@ -1,5 +1,6 @@
-# Actividad-E2
-Programas de la Actividad-B2-C2
--------------------------------------
-  Montesdeoca Castillo Daniela Mishelle
-  
+# Programas en c++ de Montesdeoca Daniela
+## Informacion del autor
+`Autora: Montesdeoca Castillo Daniela Mishelle 
+`Correo: mishellecmontesdeoca@gmail.com
+## Programas 
+###  `Compara dos numeros.
